@@ -1,5 +1,5 @@
 /*!
- * jquery.lately.js 0.0.1 - https://github.com/yckart/jquery.lately.js
+ * jquery.lately.js 0.0.2 - https://github.com/yckart/jquery.lately.js
  * A very lightweight jQuery plugin to lazy load images
  *
  * Copyright (c) 2013 Yannick Albert (http://yckart.com)

@@ -1,21 +1,22 @@
 {
     "name": "lately",
     "title": "jQuery Lately",
-    "description": "A very lightweight jQuery plugin to lazy load images",
+    "description": "A very lightweight jQuery plugin to lazy load images.",
     "keywords": [
         "lazy",
         "load",
         "images",
-        "lazyload"
+        "lazyload",
         "lazyloading",
         "scroll",
         "resize",
         "mobile",
         "responsive"
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Yannick Albert",
+        "email": "mail@yckart.com",
         "url": "https://github.com/yckart"
     },
     "licenses": [

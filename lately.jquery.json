@@ -1,0 +1,34 @@
+{
+    "name": "lately",
+    "title": "jQuery Lately",
+    "description": "A very lightweight jQuery plugin to lazy load images",
+    "keywords": [
+        "lazy",
+        "load",
+        "images",
+        "lazyload"
+        "lazyloading",
+        "scroll",
+        "resize",
+        "mobile",
+        "responsive"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Yannick Albert",
+        "url": "https://github.com/yckart"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://yckart.com/mit/"
+        }
+    ],
+    "homepage": "http://yckart.github.com/jquery.lately.js",
+    "demo": "http://yckart.github.com/jquery.lately.js",
+    "docs": "https://github.com/yckart/jquery.lately.js",
+    "bugs": "https://github.com/yckart/jquery.lately.js/issues",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
